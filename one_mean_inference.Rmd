@@ -2,8 +2,8 @@
 title: 'Lab 3: Inference for a Single Mean'
 author: "Group member names here!"
 output:
-  pdf_document: default
   html_document: default
+  pdf_document: default
 ---
 
 ## Reminders
