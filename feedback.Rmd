@@ -3,6 +3,8 @@ title: "Lab 3 Feedback"
 output: html_document
 ---
 
+[Feedback link](https://earobinson95.github.io/218-03-lab-one-mean-inference/one_mean_inference.html)
+
 ## Question 5
 
 Remember there are four aspects we look at when describing a distribution: center (mean/median/mode), spread (how spread out is the data? SD/IQR, flat?, narrow?), shape (left skewed/right skewed/symmetrical), and outliers!
