@@ -3,8 +3,9 @@ title: "Lab 3 Feedback"
 format: html
 ---
 
-[Feedback link](https://earobinson95.github.io/218-03-lab-one-mean-inference/lab3_feedback.html)
-[Lab](https://earobinson95.github.io/218-03-lab-one-mean-inference/one_mean_inference.pdf)
++ [Feedback link](https://earobinson95.github.io/218-03-lab-one-mean-inference/lab3_feedback.html)
+
++ [Lab](https://earobinson95.github.io/218-03-lab-one-mean-inference/one_mean_inference.pdf)
 
 
 # CAMPLETION (ISA)
