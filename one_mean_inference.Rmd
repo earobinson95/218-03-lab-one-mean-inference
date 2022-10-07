@@ -36,7 +36,7 @@ GSS <- read_csv("data/gss.csv")
 
 ## Investigating hours worked
 
-For this lab, we'll be working with data from the General Social Survey (GSS). The GSS is a high-quality survey which gathers data on American society and opinions, conducted since 1972.This data set is a sample of 500 entries from the GSS, spanning years 1973-2018, including demographic markers and some economic variables.
+For this lab, we'll be working with data from the General Social Survey (GSS). The GSS is a high-quality survey which gathers data on American society and opinions, conducted since 1972. This data set is a sample of 500 entries from the GSS, spanning years 1973-2018, including demographic markers and some economic variables.
 
 Specifically, we will consider the variable `hours`. Say we wanted to know if the true mean number of hours worked in a week is different than 40. We could write out our null and alternative hypotheses like so:
 
@@ -114,6 +114,7 @@ Today, since we are programming in R, we will use a function to get this interva
 Run the code below and see what you get!
 
 ```{r}
+library(infer)
 t_test(x = GSS, 
        response = hours, 
        conf_int = TRUE, 

@@ -1,0 +1,107 @@
+---
+title: "Lab 3 Feedback"
+format: html
+---
+
+[Feedback link](https://earobinson95.github.io/218-03-lab-one-mean-inference/lab3_feedback.html)
+[Lab](https://earobinson95.github.io/218-03-lab-one-mean-inference/one_mean_inference.pdf)
+
+
+# CAMPLETION (ISA)
+
+---
+
+Answers to everything: 5 points
+
+Don't have answers to 1-2 questions: 4.5 
+
+Don't have answers to 3-4 questions: 4
+
+Don't have answers 5-6 questions: 3.5
+
+---
+
+## Question 5
+
+(5) Remember there are four aspects we look at when describing a distribution: center (mean/median/mode), spread (how spread out is the data? SD/IQR, flat?, narrow?), shape (left skewed/right skewed/symmetrical), and outliers!
+
+---
+
+## Question 6
+
+(6) Nice job identifying independence and normality!
+
+### Independance
+
+(6) Recall when evaluating independence, we are looking to see if there is a relationship between the observational units (person). Here each person's hours worked not depend on the others.
+
+### Normality
+
+(6) What does the shape of the histogram look like? Do you see any outliers? Remember our sample size is relatively large (n = 500). 
+
+---
+
+## Question 10
+
+### If they say "90% chance"
+
+(10) Careful! The true mean is either in our interval or not, but we don't know. So, we can't say we are 90% sure it is in there. It's either 0% or 100%. We can't estimate the chance that the parameter is in the interval. Instead, we are confident that if we make lots of intervals 90% of them should contain the
+population mean.
+
+### If they say "90% of the people"
+
+(10) Our confidence interval is for the population mean, not the number of people!
+We are 90% confident the population mean hours worked per week for all working Americans is contained in our interval.
+
+### If they reference the sample mean instead of the population mean
+
+(10) Careful! Our confidence interval is for the population mean, not the sample mean! We use our sample mean as the center of our confidence interval, so there
+is a 100% chance that it is capture in the interval! We don't, however, know if
+our interval contains the true population mean.
+
+### If their interpretation doesn't contain context
+
+(10) "Which group of people are we interested in?"
+
+(10) "Is our interval for the number of hours worked in a day? A week? A year?"
+
+---
+
+## Question 11
+
+### If they don't reject the null
+
+(11) When making a hypothesis test decision with a confidence interval, we look for the null value in the interval. Is 40 contained in your 90% confidence interval?
+
+### If they talk about the interval being close to 40
+
+(11) The 90% interval already captured the uncertainty for the sample mean, so now we need to see whether the null value overlaps with the interval. When making a decision, we're not looking at how close or far 40 is from the interval.
+
+---
+
+## Question 12
+
+### If they say "low probability of getting the null"
+
+(12) The p-value isn't the probability of getting the null, it is the probability of obtaining the results we saw or something more extreme **is the null was true.**
+
+### If they use 0.05 instead of 0.1
+
+(12) Careful! Our significance level coincides with the confidence level we used. What percent confidence level did we use in the last problem? What significance level should you use?
+
+### General reminder about p-value interpretation
+
+(12) The p-value represents the probability of obtaining the results we did (sample mean) or something more extreme, if the null was true. Given the p-value we obtained is 0.0376 (aka 3.76%), is it likely for us to have obtained a sample mean as large as what we saw due to chance alone?
+
+### General reminder about making a decision
+
+(12) Remember when making a hypothesis test decision, we either reject the null or fail to reject the null!
+
+---
+
+# CANVAS QUIZ (INSTRUCTOR)
+
+## Question 2
+
+(2) Our parameter is a combination of our (summary statistic + variable + population); this is specifically worded. "The MEAN number of hours worked in a week for ALL American workers in the GSS."
+
