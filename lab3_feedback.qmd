@@ -64,6 +64,8 @@ our interval contains the true population mean.
 
 (10) "Which group of people are we interested in?"
 
+### If their interpretation doesn't contain context
+
 (10) "Is our interval for the number of hours worked in a day? A week? A year?"
 
 ---
@@ -105,4 +107,16 @@ our interval contains the true population mean.
 ## Question 2
 
 (2) Our parameter is a combination of our (summary statistic + variable + population); this is specifically worded. "The MEAN number of hours worked in a week for ALL American workers in the GSS."
+
+### If their interpretation doesn't contain the average/mean
+
+(2) What summary statistic value are we working with?
+
+### If their interpretation doesn't contain context
+
+(2) "Which group of people are we interested in?"
+
+### If their interpretation doesn't contain context 
+
+(2) "Is our interval for the number of hours worked in a day? A week? A year?"
 
