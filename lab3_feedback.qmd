@@ -112,7 +112,7 @@ our interval contains the true population mean.
 
 ### If they didn't include ALL 
 
-(2) Recall the parameter is "ALL" working adults, not just those surveyed by the GSS. I realize my wording below was a little off.
+(2) Recall the parameter is "ALL" American workers, not just those surveyed by the GSS. I realize my wording below was a little off.
 
 ### If their interpretation doesn't contain the average/mean
 
