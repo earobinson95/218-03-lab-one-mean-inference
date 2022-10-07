@@ -110,6 +110,10 @@ our interval contains the true population mean.
 
 (2) Our parameter is a combination of our (summary statistic + variable + population); this is specifically worded. 
 
+### If they didn't include ALL 
+
+(2) Recall the parameter is "ALL" working adults, not just those surveyed by the GSS. I realize my wording below was a little off.
+
 ### If their interpretation doesn't contain the average/mean
 
 (2) What summary statistic value are we working with? The median hours? The IQR of hours?
