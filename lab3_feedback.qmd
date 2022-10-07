@@ -122,3 +122,9 @@ our interval contains the true population mean.
 
 (2) Add context, what are we taking the mean of? Are we interested in the number of hours worked in a day? A week? A year? Which group of people are we interested in?
 
+## Question 13
+
+### If they said "more than"
+
+(13) In our alternative hypotheses are we testing whether our parameter is more than, less than, or different from our null value? Take note of the alternative = "" argument in the t_test function - is this one-sided or two-sided? Even if our confidence interval falls on one side of the null value, we still want to go back to what we initial said we were testing.
+
